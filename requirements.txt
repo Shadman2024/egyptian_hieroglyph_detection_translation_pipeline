@@ -1,0 +1,8 @@
+sentencepiece 
+tiktoken 
+torch 
+torchvision
+streamlit
+requests 
+numpy 
+pandas
